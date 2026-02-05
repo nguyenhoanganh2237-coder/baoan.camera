@@ -1,5 +1,4 @@
-[baoan.html](https://github.com/user-attachments/files/25113930/baoan.html)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/25113930/baoan.html)
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
